@@ -28,6 +28,6 @@ Dec/Inc | 1 | 1 | Dec Addr | Inc Addr
 * Inc Addr: hold down Button 3 and Button 2 down then press Button 0.
   * Increments the DAR.
 ## State Machine Chart
-![image](https://github.com/user-attachments/assets/77c118eb-b570-4d49-8ff8-9d872ff8fb71)
+![SM_stack_calculator](https://github.com/user-attachments/assets/fd5a2c29-bd45-49a6-abdd-da63b30796ab)
 
 ## Block Diagram
