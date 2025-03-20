@@ -1,5 +1,6 @@
 # Basys3_Stack_Calculator #
 
+The stack calculator consists of 128 locations that each hold 8 bits. The stack calculator is only byte addressable.
 ## Instructions to Implement ##
 
 Mode/Instruction | Button 3 | Button 2 | Button 1 | Button 0
