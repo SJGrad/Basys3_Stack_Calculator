@@ -32,3 +32,4 @@ Dec/Inc | 1 | 1 | Dec Addr | Inc Addr
 ![SM_stack_calculator](https://github.com/user-attachments/assets/fd5a2c29-bd45-49a6-abdd-da63b30796ab)
 
 ## Block Diagram
+![image](https://github.com/user-attachments/assets/6e91f394-f418-4bbe-b92a-53d8d1df2d65)
