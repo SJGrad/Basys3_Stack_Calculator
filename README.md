@@ -1,6 +1,6 @@
 # Basys3_Stack_Calculator #
 
-The stack consists of 128 locations that each hold 8 bits. Instructions are encoded by the four buttons on the Basys3 board. The stack calculator does not check for overflow or underflow conditions.
+The stack consists of 128 locations that each hold 8 bits. Instructions are encoded by the four buttons on the Basys3 board. The stack calculator does not check for overflow or underflow conditions. To run the bitstream on your board without the need to synthesize use 'TOP.bit'.
 ## Instructions to Implement ##
 
 Mode/Instruction | Button 3 | Button 2 | Button 1 | Button 0
