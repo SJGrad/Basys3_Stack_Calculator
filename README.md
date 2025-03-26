@@ -36,6 +36,11 @@ Dec/Inc | 1 | 1 | Dec Addr | Inc Addr
 
 ## Basys3 Examples ##
 
+## Board Inputs and Outputs ##
+![image](https://github.com/user-attachments/assets/0797d57d-1df9-4549-ae65-15963c7314b5)
+
+![image](https://github.com/user-attachments/assets/b86095e1-03d6-4f12-8c2f-e907607ee878)
+
 ### Example 1: Clear -> Push 0x33 -> Push 0x11 -> Pop ###
 ---
 <img src="https://github.com/user-attachments/assets/96d1eed9-c950-4498-b2de-c2754fe23732" alt="Alt Text" style="width:100%; height:auto;">
