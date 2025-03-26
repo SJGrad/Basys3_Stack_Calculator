@@ -33,3 +33,22 @@ Dec/Inc | 1 | 1 | Dec Addr | Inc Addr
 
 ## Block Diagram
 ![image](https://github.com/user-attachments/assets/6e91f394-f418-4bbe-b92a-53d8d1df2d65)
+
+## Board Examples ##
+
+# Example 1 #
+* Clear -> Push 0x33 -> Push 0x11 -> Pop
+![image](https://github.com/user-attachments/assets/42fd6c55-ccfd-4afe-b2ae-804500866014)
+
+* After Clear
+
+* After both Pushes
+* After Pop
+
+# Example 2 #
+* Clear -> Push 0x33 -> Push 0x11 -> Add
+![image](https://github.com/user-attachments/assets/af279e90-dfcc-4d43-b84d-1ddfbe896fee)
+
+* After Clear
+* After both Pushes
+* After Add
