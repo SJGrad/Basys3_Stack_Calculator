@@ -38,7 +38,7 @@ Dec/Inc | 1 | 1 | Dec Addr | Inc Addr
 
 ## Board Inputs and Outputs ##
 
-<img src="https://github.com/user-attachments/assets/0797d57d-1df9-4549-ae65-15963c7314b5" alt="Alt Text" style="width:50%; height:auto;"> <img src="https://github.com/user-attachments/assets/b86095e1-03d6-4f12-8c2f-e907607ee878" alt="Alt Text" style="width:50%; height:auto;">
+<img src="https://github.com/user-attachments/assets/0797d57d-1df9-4549-ae65-15963c7314b5" alt="Alt Text" style="width:49%; height:auto;"> <img src="https://github.com/user-attachments/assets/b86095e1-03d6-4f12-8c2f-e907607ee878" alt="Alt Text" style="width:49%; height:auto;">
 
 ### Example 1: Clear -> Push 0x33 -> Push 0x11 -> Pop ###
 ---
