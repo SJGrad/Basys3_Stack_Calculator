@@ -39,7 +39,7 @@ Dec/Inc | 1 | 1 | Dec Addr | Inc Addr
 ### Example 1 ###
 **Clear -> Push 0x33 -> Push 0x11 -> Pop**
 
-![image](https://github.com/user-attachments/assets/42fd6c55-ccfd-4afe-b2ae-804500866014)
+<img src="https://github.com/user-attachments/assets/42fd6c55-ccfd-4afe-b2ae-804500866014" alt="Alt Text" style="width:50%; height:auto;">
 
 **After Clear**
 
