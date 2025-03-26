@@ -41,9 +41,7 @@ Dec/Inc | 1 | 1 | Dec Addr | Inc Addr
 
 <img src="https://github.com/user-attachments/assets/42fd6c55-ccfd-4afe-b2ae-804500866014" alt="Alt Text" style="width:100%; height:auto;">
 
-**After Clear** **After both Pushes** **After Pop**
-
-<img src="https://github.com/user-attachments/assets/3c82070a-d2cb-4ab1-bfbd-03106f616930" alt="Alt Text" style="width:30%; height:auto;"> <img src="https://github.com/user-attachments/assets/c68e6c1d-5812-4378-a8b6-db8997373153" alt="Alt Text" style="width:30%; height:auto;"> <img src="https://github.com/user-attachments/assets/45a1dba7-b22c-429f-a934-4be6549314b1" alt="Alt Text" style="width:30%; height:auto;">
+<img src="https://github.com/user-attachments/assets/3c82070a-d2cb-4ab1-bfbd-03106f616930" alt="Alt Text" style="width:33%; height:auto;"> <img src="https://github.com/user-attachments/assets/c68e6c1d-5812-4378-a8b6-db8997373153" alt="Alt Text" style="width:33%; height:auto;"> <img src="https://github.com/user-attachments/assets/45a1dba7-b22c-429f-a934-4be6549314b1" alt="Alt Text" style="width:33%; height:auto;">
 
 ### Example 2 ###
 **Clear -> Push 0x33 -> Push 0x11 -> Add**
